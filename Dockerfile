@@ -1,6 +1,6 @@
 FROM mongo:3.4
 
-MAINTAINER <Alex Bejan> contact@bejanalex.com
+MAINTAINER <Dima> volyihin@gmail.com
 
 ENV AUTH yes
 ENV STORAGE_ENGINE wiredTiger
